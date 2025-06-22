@@ -1,0 +1,6 @@
+PS C:\Users\nithi\OneDrive\Desktop\week1> cd singleton
+PS C:\Users\nithi\OneDrive\Desktop\week1\singleton> dotnet run
+Logger initialized.
+Log: This is the first log message.
+Log: This is the second log message.
+logger1 and logger2 refer to the same instance: True
