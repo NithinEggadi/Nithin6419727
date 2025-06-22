@@ -1,0 +1,5 @@
+PS C:\Users\nithi\OneDrive\Desktop\week1> cd forest
+PS C:\Users\nithi\OneDrive\Desktop\week1\forest> dotnet run
+Opening a Word document.
+Opening a PDF document.
+Opening an Excel document.
