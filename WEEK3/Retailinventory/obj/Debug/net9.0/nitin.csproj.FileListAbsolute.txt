@@ -1,0 +1,4 @@
+C:\Users\nithi\OneDrive\Desktop\WEEK3\Retailinventory\obj\Debug\net9.0\nitin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithi\OneDrive\Desktop\WEEK3\Retailinventory\obj\Debug\net9.0\nitin.AssemblyInfoInputs.cache
+C:\Users\nithi\OneDrive\Desktop\WEEK3\Retailinventory\obj\Debug\net9.0\nitin.AssemblyInfo.cs
+C:\Users\nithi\OneDrive\Desktop\WEEK3\Retailinventory\obj\Debug\net9.0\nitin.csproj.CoreCompileInputs.cache
